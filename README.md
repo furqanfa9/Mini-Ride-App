@@ -62,7 +62,5 @@ A mobile application developed using Android Jetpack Compose and Firebase, allow
 
 ---
 
-## 📸 Demo & Code
-
-- 🔗 **GitHub Repository**: [Add your GitHub link here]
+## 📸 Demo Video
 - 🎥 **Demo Video**: [Add your YouTube or Drive link here]
